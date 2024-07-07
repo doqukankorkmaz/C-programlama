@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tpOPZKpV329oSpiIHqBOS/BHZfzWJC+C1BdaLz5a8z9QfsbmjCSVwDqeGQov851ZerzfVy7OzMBhIdv5Ujiovw==",
+  "success": true,
+  "projectFilePath": "D:\\OKUL\\porgramlama\\butonlar2\\butonlar2\\butonlar2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

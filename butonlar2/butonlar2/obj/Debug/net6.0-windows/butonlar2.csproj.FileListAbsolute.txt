@@ -1,0 +1,17 @@
+D:\OKUL\porgramlama\butonlar2\butonlar2\bin\Debug\net6.0-windows\butonlar2.exe
+D:\OKUL\porgramlama\butonlar2\butonlar2\bin\Debug\net6.0-windows\butonlar2.deps.json
+D:\OKUL\porgramlama\butonlar2\butonlar2\bin\Debug\net6.0-windows\butonlar2.runtimeconfig.json
+D:\OKUL\porgramlama\butonlar2\butonlar2\bin\Debug\net6.0-windows\butonlar2.dll
+D:\OKUL\porgramlama\butonlar2\butonlar2\bin\Debug\net6.0-windows\butonlar2.pdb
+D:\OKUL\porgramlama\butonlar2\butonlar2\obj\Debug\net6.0-windows\butonlar2.csproj.AssemblyReference.cache
+D:\OKUL\porgramlama\butonlar2\butonlar2\obj\Debug\net6.0-windows\butonlar2.Form1.resources
+D:\OKUL\porgramlama\butonlar2\butonlar2\obj\Debug\net6.0-windows\butonlar2.csproj.GenerateResource.cache
+D:\OKUL\porgramlama\butonlar2\butonlar2\obj\Debug\net6.0-windows\butonlar2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\porgramlama\butonlar2\butonlar2\obj\Debug\net6.0-windows\butonlar2.AssemblyInfoInputs.cache
+D:\OKUL\porgramlama\butonlar2\butonlar2\obj\Debug\net6.0-windows\butonlar2.AssemblyInfo.cs
+D:\OKUL\porgramlama\butonlar2\butonlar2\obj\Debug\net6.0-windows\butonlar2.csproj.CoreCompileInputs.cache
+D:\OKUL\porgramlama\butonlar2\butonlar2\obj\Debug\net6.0-windows\butonlar2.dll
+D:\OKUL\porgramlama\butonlar2\butonlar2\obj\Debug\net6.0-windows\refint\butonlar2.dll
+D:\OKUL\porgramlama\butonlar2\butonlar2\obj\Debug\net6.0-windows\butonlar2.pdb
+D:\OKUL\porgramlama\butonlar2\butonlar2\obj\Debug\net6.0-windows\butonlar2.genruntimeconfig.cache
+D:\OKUL\porgramlama\butonlar2\butonlar2\obj\Debug\net6.0-windows\ref\butonlar2.dll
