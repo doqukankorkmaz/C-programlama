@@ -1,0 +1,17 @@
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\bin\Debug\net6.0-windows\radio button kullanımı.exe
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\bin\Debug\net6.0-windows\radio button kullanımı.deps.json
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\bin\Debug\net6.0-windows\radio button kullanımı.runtimeconfig.json
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\bin\Debug\net6.0-windows\radio button kullanımı.dll
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\bin\Debug\net6.0-windows\radio button kullanımı.pdb
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\obj\Debug\net6.0-windows\radio button kullanımı.csproj.AssemblyReference.cache
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\obj\Debug\net6.0-windows\radio_button_kullanımı.Form1.resources
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\obj\Debug\net6.0-windows\radio button kullanımı.csproj.GenerateResource.cache
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\obj\Debug\net6.0-windows\radio button kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\obj\Debug\net6.0-windows\radio button kullanımı.AssemblyInfoInputs.cache
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\obj\Debug\net6.0-windows\radio button kullanımı.AssemblyInfo.cs
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\obj\Debug\net6.0-windows\radio button kullanımı.csproj.CoreCompileInputs.cache
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\obj\Debug\net6.0-windows\radio button kullanımı.dll
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\obj\Debug\net6.0-windows\refint\radio button kullanımı.dll
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\obj\Debug\net6.0-windows\radio button kullanımı.pdb
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\obj\Debug\net6.0-windows\radio button kullanımı.genruntimeconfig.cache
+D:\OKUL\porgramlama\radio button kullanımı\radio button kullanımı\obj\Debug\net6.0-windows\ref\radio button kullanımı.dll
