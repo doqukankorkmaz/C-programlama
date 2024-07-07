@@ -1,0 +1,18 @@
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\bin\Debug\net6.0-windows\iki formu birbirine gonderme.exe
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\bin\Debug\net6.0-windows\iki formu birbirine gonderme.deps.json
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\bin\Debug\net6.0-windows\iki formu birbirine gonderme.runtimeconfig.json
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\bin\Debug\net6.0-windows\iki formu birbirine gonderme.dll
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\bin\Debug\net6.0-windows\iki formu birbirine gonderme.pdb
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\iki formu birbirine gonderme.csproj.AssemblyReference.cache
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\iki_formu_birbirine_gonderme.Form1.resources
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\iki_formu_birbirine_gonderme.Form2.resources
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\iki formu birbirine gonderme.csproj.GenerateResource.cache
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\iki formu birbirine gonderme.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\iki formu birbirine gonderme.AssemblyInfoInputs.cache
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\iki formu birbirine gonderme.AssemblyInfo.cs
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\iki formu birbirine gonderme.csproj.CoreCompileInputs.cache
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\iki formu birbirine gonderme.dll
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\refint\iki formu birbirine gonderme.dll
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\iki formu birbirine gonderme.pdb
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\iki formu birbirine gonderme.genruntimeconfig.cache
+D:\OKUL\porgramlama\iki formu birbirine gonderme\iki formu birbirine gonderme\obj\Debug\net6.0-windows\ref\iki formu birbirine gonderme.dll

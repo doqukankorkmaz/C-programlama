@@ -15,3 +15,20 @@ D:\OKUL\porgramlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\ref
 D:\OKUL\porgramlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\dairenin alanı.pdb
 D:\OKUL\porgramlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\dairenin alanı.genruntimeconfig.cache
 D:\OKUL\porgramlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\ref\dairenin alanı.dll
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\bin\Debug\net6.0-windows\dairenin alanı.exe
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\bin\Debug\net6.0-windows\dairenin alanı.deps.json
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\bin\Debug\net6.0-windows\dairenin alanı.runtimeconfig.json
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\bin\Debug\net6.0-windows\dairenin alanı.dll
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\bin\Debug\net6.0-windows\dairenin alanı.pdb
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\dairenin_alanı.Form1.resources
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\dairenin alanı.csproj.GenerateResource.cache
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\dairenin alanı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\dairenin alanı.AssemblyInfoInputs.cache
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\dairenin alanı.AssemblyInfo.cs
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\dairenin alanı.csproj.CoreCompileInputs.cache
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\dairenin alanı.sourcelink.json
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\dairenin alanı.dll
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\refint\dairenin alanı.dll
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\dairenin alanı.pdb
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\dairenin alanı.genruntimeconfig.cache
+C:\Users\doguk\OneDrive - Amasya Üniversitesi\Belgeler\GitHub\C-programlama\dairenin alanı\dairenin alanı\obj\Debug\net6.0-windows\ref\dairenin alanı.dll
