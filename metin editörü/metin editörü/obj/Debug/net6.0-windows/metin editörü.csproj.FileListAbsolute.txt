@@ -1,0 +1,18 @@
+D:\OKUL\porgramlama\metin editörü\metin editörü\bin\Debug\net6.0-windows\metin editörü.exe
+D:\OKUL\porgramlama\metin editörü\metin editörü\bin\Debug\net6.0-windows\metin editörü.deps.json
+D:\OKUL\porgramlama\metin editörü\metin editörü\bin\Debug\net6.0-windows\metin editörü.runtimeconfig.json
+D:\OKUL\porgramlama\metin editörü\metin editörü\bin\Debug\net6.0-windows\metin editörü.dll
+D:\OKUL\porgramlama\metin editörü\metin editörü\bin\Debug\net6.0-windows\metin editörü.pdb
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\metin editörü.csproj.AssemblyReference.cache
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\metin_editörü.Form1.resources
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\metin editörü.csproj.GenerateResource.cache
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\metin editörü.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\metin editörü.AssemblyInfoInputs.cache
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\metin editörü.AssemblyInfo.cs
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\metin editörü.csproj.CoreCompileInputs.cache
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\metin editörü.dll
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\refint\metin editörü.dll
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\metin editörü.pdb
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\metin editörü.genruntimeconfig.cache
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\ref\metin editörü.dll
+D:\OKUL\porgramlama\metin editörü\metin editörü\obj\Debug\net6.0-windows\metin_editörü.Properties.Resources.resources
