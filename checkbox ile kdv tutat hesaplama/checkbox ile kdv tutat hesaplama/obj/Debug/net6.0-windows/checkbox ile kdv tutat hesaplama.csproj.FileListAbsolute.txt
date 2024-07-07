@@ -1,0 +1,17 @@
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\bin\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.exe
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\bin\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.deps.json
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\bin\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.runtimeconfig.json
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\bin\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.dll
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\bin\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.pdb
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\obj\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.csproj.AssemblyReference.cache
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\obj\Debug\net6.0-windows\checkbox_ile_kdv_tutat_hesaplama.Form1.resources
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\obj\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.csproj.GenerateResource.cache
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\obj\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\obj\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.AssemblyInfoInputs.cache
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\obj\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.AssemblyInfo.cs
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\obj\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.csproj.CoreCompileInputs.cache
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\obj\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.dll
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\obj\Debug\net6.0-windows\refint\checkbox ile kdv tutat hesaplama.dll
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\obj\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.pdb
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\obj\Debug\net6.0-windows\checkbox ile kdv tutat hesaplama.genruntimeconfig.cache
+D:\OKUL\porgramlama\checkbox ile kdv tutat hesaplama\checkbox ile kdv tutat hesaplama\obj\Debug\net6.0-windows\ref\checkbox ile kdv tutat hesaplama.dll
