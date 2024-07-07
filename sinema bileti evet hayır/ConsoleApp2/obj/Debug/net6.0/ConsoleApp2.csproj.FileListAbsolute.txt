@@ -1,0 +1,14 @@
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+D:\OKUL\porgramlama\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll

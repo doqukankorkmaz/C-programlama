@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rP+EKpahvoqwT+qAt633UlE8HpcH/gHw/0wSqse31c1Aghz5jz2MsVAPS2TxML/x5suSg8C7gCleoW2BIfFXWw==",
+  "success": true,
+  "projectFilePath": "D:\\OKUL\\porgramlama\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
