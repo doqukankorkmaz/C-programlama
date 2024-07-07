@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qTYTWT70ELtG4NobcKaE8VED29WcLp25zrPICH2UQY0P7qeOFgBmLrfJthdoLf3vyPzf3gnfZaiJ6v4nWVzbNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\doguk\\OneDrive - Amasya Üniversitesi\\Belgeler\\GitHub\\C-programlama\\dairenin alanı\\dairenin alanı\\dairenin alanı.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
