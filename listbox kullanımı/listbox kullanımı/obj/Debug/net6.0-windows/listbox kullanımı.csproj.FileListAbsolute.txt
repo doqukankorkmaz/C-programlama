@@ -1,0 +1,17 @@
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\bin\Debug\net6.0-windows\listbox kullanımı.exe
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\bin\Debug\net6.0-windows\listbox kullanımı.deps.json
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\bin\Debug\net6.0-windows\listbox kullanımı.runtimeconfig.json
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\bin\Debug\net6.0-windows\listbox kullanımı.dll
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\bin\Debug\net6.0-windows\listbox kullanımı.pdb
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\obj\Debug\net6.0-windows\listbox kullanımı.csproj.AssemblyReference.cache
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\obj\Debug\net6.0-windows\listbox_kullanımı.Form1.resources
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\obj\Debug\net6.0-windows\listbox kullanımı.csproj.GenerateResource.cache
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\obj\Debug\net6.0-windows\listbox kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\obj\Debug\net6.0-windows\listbox kullanımı.AssemblyInfoInputs.cache
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\obj\Debug\net6.0-windows\listbox kullanımı.AssemblyInfo.cs
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\obj\Debug\net6.0-windows\listbox kullanımı.csproj.CoreCompileInputs.cache
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\obj\Debug\net6.0-windows\listbox kullanımı.dll
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\obj\Debug\net6.0-windows\refint\listbox kullanımı.dll
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\obj\Debug\net6.0-windows\listbox kullanımı.pdb
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\obj\Debug\net6.0-windows\listbox kullanımı.genruntimeconfig.cache
+D:\OKUL\porgramlama\listbox kullanımı\listbox kullanımı\obj\Debug\net6.0-windows\ref\listbox kullanımı.dll
