@@ -1,0 +1,17 @@
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\bin\Debug\net6.0-windows\sınav ortalaması.exe
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\bin\Debug\net6.0-windows\sınav ortalaması.deps.json
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\bin\Debug\net6.0-windows\sınav ortalaması.runtimeconfig.json
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\bin\Debug\net6.0-windows\sınav ortalaması.dll
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\bin\Debug\net6.0-windows\sınav ortalaması.pdb
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\obj\Debug\net6.0-windows\sınav ortalaması.csproj.AssemblyReference.cache
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\obj\Debug\net6.0-windows\sınav_ortalaması.Form1.resources
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\obj\Debug\net6.0-windows\sınav ortalaması.csproj.GenerateResource.cache
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\obj\Debug\net6.0-windows\sınav ortalaması.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\obj\Debug\net6.0-windows\sınav ortalaması.AssemblyInfoInputs.cache
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\obj\Debug\net6.0-windows\sınav ortalaması.AssemblyInfo.cs
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\obj\Debug\net6.0-windows\sınav ortalaması.csproj.CoreCompileInputs.cache
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\obj\Debug\net6.0-windows\sınav ortalaması.dll
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\obj\Debug\net6.0-windows\refint\sınav ortalaması.dll
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\obj\Debug\net6.0-windows\sınav ortalaması.pdb
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\obj\Debug\net6.0-windows\sınav ortalaması.genruntimeconfig.cache
+D:\OKUL\porgramlama\sınav ortalaması\sınav ortalaması\obj\Debug\net6.0-windows\ref\sınav ortalaması.dll
