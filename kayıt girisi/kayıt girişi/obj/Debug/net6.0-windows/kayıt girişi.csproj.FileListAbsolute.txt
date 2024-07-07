@@ -1,0 +1,17 @@
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\obj\Debug\net6.0-windows\kayıt girişi.csproj.AssemblyReference.cache
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\obj\Debug\net6.0-windows\kayıt_girişi.Form1.resources
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\obj\Debug\net6.0-windows\kayıt girişi.csproj.GenerateResource.cache
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\obj\Debug\net6.0-windows\kayıt girişi.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\obj\Debug\net6.0-windows\kayıt girişi.AssemblyInfoInputs.cache
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\obj\Debug\net6.0-windows\kayıt girişi.AssemblyInfo.cs
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\obj\Debug\net6.0-windows\kayıt girişi.csproj.CoreCompileInputs.cache
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\bin\Debug\net6.0-windows\kayıt girişi.exe
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\bin\Debug\net6.0-windows\kayıt girişi.deps.json
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\bin\Debug\net6.0-windows\kayıt girişi.runtimeconfig.json
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\bin\Debug\net6.0-windows\kayıt girişi.dll
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\bin\Debug\net6.0-windows\kayıt girişi.pdb
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\obj\Debug\net6.0-windows\kayıt girişi.dll
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\obj\Debug\net6.0-windows\refint\kayıt girişi.dll
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\obj\Debug\net6.0-windows\kayıt girişi.pdb
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\obj\Debug\net6.0-windows\kayıt girişi.genruntimeconfig.cache
+D:\OKUL\porgramlama\kayıt girişi\kayıt girişi\obj\Debug\net6.0-windows\ref\kayıt girişi.dll
