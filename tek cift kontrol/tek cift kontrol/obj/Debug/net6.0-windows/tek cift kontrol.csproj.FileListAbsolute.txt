@@ -1,0 +1,17 @@
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\bin\Debug\net6.0-windows\tek cift kontrol.exe
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\bin\Debug\net6.0-windows\tek cift kontrol.deps.json
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\bin\Debug\net6.0-windows\tek cift kontrol.runtimeconfig.json
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\bin\Debug\net6.0-windows\tek cift kontrol.dll
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\bin\Debug\net6.0-windows\tek cift kontrol.pdb
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\obj\Debug\net6.0-windows\tek cift kontrol.csproj.AssemblyReference.cache
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\obj\Debug\net6.0-windows\tek_cift_kontrol.Form1.resources
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\obj\Debug\net6.0-windows\tek cift kontrol.csproj.GenerateResource.cache
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\obj\Debug\net6.0-windows\tek cift kontrol.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\obj\Debug\net6.0-windows\tek cift kontrol.AssemblyInfoInputs.cache
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\obj\Debug\net6.0-windows\tek cift kontrol.AssemblyInfo.cs
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\obj\Debug\net6.0-windows\tek cift kontrol.csproj.CoreCompileInputs.cache
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\obj\Debug\net6.0-windows\tek cift kontrol.dll
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\obj\Debug\net6.0-windows\refint\tek cift kontrol.dll
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\obj\Debug\net6.0-windows\tek cift kontrol.pdb
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\obj\Debug\net6.0-windows\tek cift kontrol.genruntimeconfig.cache
+D:\OKUL\porgramlama\tek cift kontrol\tek cift kontrol\obj\Debug\net6.0-windows\ref\tek cift kontrol.dll

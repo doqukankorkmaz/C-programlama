@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tek cift kontrol/1.0.0": {
+        "runtime": {
+          "tek cift kontrol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tek cift kontrol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
