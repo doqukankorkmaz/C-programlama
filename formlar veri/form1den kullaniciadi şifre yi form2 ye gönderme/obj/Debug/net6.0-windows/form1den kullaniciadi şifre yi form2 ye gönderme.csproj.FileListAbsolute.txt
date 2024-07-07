@@ -1,0 +1,18 @@
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\bin\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.exe
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\bin\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.deps.json
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\bin\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.runtimeconfig.json
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\bin\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.dll
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\bin\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.pdb
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.csproj.AssemblyReference.cache
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\form1den_kullaniciadi_şifre_yi_form2_ye_gönderme.Form1.resources
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\form1den_kullaniciadi_şifre_yi_form2_ye_gönderme.Form2.resources
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.csproj.GenerateResource.cache
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.AssemblyInfoInputs.cache
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.AssemblyInfo.cs
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.csproj.CoreCompileInputs.cache
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.dll
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\refint\form1den kullaniciadi şifre yi form2 ye gönderme.dll
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.pdb
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\form1den kullaniciadi şifre yi form2 ye gönderme.genruntimeconfig.cache
+D:\OKUL\porgramlama\form1den kullaniciadi şifre yi form2 ye gönderme\form1den kullaniciadi şifre yi form2 ye gönderme\obj\Debug\net6.0-windows\ref\form1den kullaniciadi şifre yi form2 ye gönderme.dll

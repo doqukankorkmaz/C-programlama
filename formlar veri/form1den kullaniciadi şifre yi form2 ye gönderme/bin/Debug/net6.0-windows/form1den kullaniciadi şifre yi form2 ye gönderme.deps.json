@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "form1den kullaniciadi şifre yi form2 ye gönderme/1.0.0": {
+        "runtime": {
+          "form1den kullaniciadi şifre yi form2 ye gönderme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "form1den kullaniciadi şifre yi form2 ye gönderme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
