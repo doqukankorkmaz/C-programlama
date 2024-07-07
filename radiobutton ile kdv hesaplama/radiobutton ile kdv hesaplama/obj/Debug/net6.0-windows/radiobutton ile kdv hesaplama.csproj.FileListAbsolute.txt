@@ -1,0 +1,17 @@
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\bin\Debug\net6.0-windows\radiobutton ile kdv hesaplama.exe
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\bin\Debug\net6.0-windows\radiobutton ile kdv hesaplama.deps.json
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\bin\Debug\net6.0-windows\radiobutton ile kdv hesaplama.runtimeconfig.json
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\bin\Debug\net6.0-windows\radiobutton ile kdv hesaplama.dll
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\bin\Debug\net6.0-windows\radiobutton ile kdv hesaplama.pdb
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\obj\Debug\net6.0-windows\radiobutton ile kdv hesaplama.csproj.AssemblyReference.cache
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\obj\Debug\net6.0-windows\radiobutton_ile_kdv_hesaplama.Form1.resources
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\obj\Debug\net6.0-windows\radiobutton ile kdv hesaplama.csproj.GenerateResource.cache
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\obj\Debug\net6.0-windows\radiobutton ile kdv hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\obj\Debug\net6.0-windows\radiobutton ile kdv hesaplama.AssemblyInfoInputs.cache
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\obj\Debug\net6.0-windows\radiobutton ile kdv hesaplama.AssemblyInfo.cs
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\obj\Debug\net6.0-windows\radiobutton ile kdv hesaplama.csproj.CoreCompileInputs.cache
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\obj\Debug\net6.0-windows\radiobutton ile kdv hesaplama.dll
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\obj\Debug\net6.0-windows\refint\radiobutton ile kdv hesaplama.dll
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\obj\Debug\net6.0-windows\radiobutton ile kdv hesaplama.pdb
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\obj\Debug\net6.0-windows\radiobutton ile kdv hesaplama.genruntimeconfig.cache
+D:\OKUL\porgramlama\radiobutton ile kdv hesaplama\radiobutton ile kdv hesaplama\obj\Debug\net6.0-windows\ref\radiobutton ile kdv hesaplama.dll

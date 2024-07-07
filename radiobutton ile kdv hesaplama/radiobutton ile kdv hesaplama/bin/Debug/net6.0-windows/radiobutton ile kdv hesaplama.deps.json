@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "radiobutton ile kdv hesaplama/1.0.0": {
+        "runtime": {
+          "radiobutton ile kdv hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "radiobutton ile kdv hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
